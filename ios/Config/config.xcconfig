@@ -1,0 +1,10 @@
+PRODUCT_BUNDLE_IDENTIFIER = $(BUNDLE_IDENTIFIER)$(BUNDLE_IDENTIFIER_APPEND)
+
+BUNDLE_DISPLAY_NAME = CompletedBuildANativeMobileApp
+BUNDLE_IDENTIFIER = myapp.completedbuildanativemobileapp
+
+RUNTIME_URL = https:\/\/completedbuildanativemobileapp123-sandbox.mxapps.io/
+
+PRODUCT_NAME = CompletedBuildA
+
+HERMES_ENABLED = NO
